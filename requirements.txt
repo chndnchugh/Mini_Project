@@ -1,0 +1,28 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+
+# Local LLM
+ollama
+
+# Sentiment Analysis
+transformers
+torch
+vaderSentiment
+
+# Data Processing
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+
+# Web Interface
+streamlit
+plotly
+
+# Utilities
+python-dotenv
+pydantic
+tqdm
