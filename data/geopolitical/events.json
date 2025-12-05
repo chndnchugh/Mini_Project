@@ -1,0 +1,222 @@
+[
+  {
+    "title": "US increases tariffs on Chinese imports",
+    "description": "The United States announced a 25% tariff increase on Chinese goods worth $200 billion, escalating trade tensions.",
+    "category": "tariffs",
+    "date": "2025-11-19",
+    "countries_affected": [
+      "USA",
+      "China",
+      "India"
+    ],
+    "sectors_affected": [
+      "IT",
+      "Metals",
+      "Auto"
+    ],
+    "impact_level": "high",
+    "source": "Reuters"
+  },
+  {
+    "title": "India revises import duties on electronics",
+    "description": "Government of India increased customs duty on imported electronics to boost domestic manufacturing.",
+    "category": "tariffs",
+    "date": "2025-11-14",
+    "countries_affected": [
+      "India",
+      "China",
+      "Taiwan"
+    ],
+    "sectors_affected": [
+      "IT",
+      "Auto"
+    ],
+    "impact_level": "medium",
+    "source": "Economic Times"
+  },
+  {
+    "title": "G20 Summit focuses on global economic recovery",
+    "description": "G20 leaders agreed on coordinated measures to support economic recovery and address inflation concerns.",
+    "category": "g20",
+    "date": "2025-11-04",
+    "countries_affected": [
+      "Global"
+    ],
+    "sectors_affected": [
+      "Banking",
+      "Infrastructure"
+    ],
+    "impact_level": "medium",
+    "source": "Financial Times"
+  },
+  {
+    "title": "G20 finance ministers discuss crypto regulations",
+    "description": "Finance ministers from G20 nations discussed implementing unified cryptocurrency regulations.",
+    "category": "g20",
+    "date": "2025-10-20",
+    "countries_affected": [
+      "Global"
+    ],
+    "sectors_affected": [
+      "Banking",
+      "IT"
+    ],
+    "impact_level": "low",
+    "source": "Bloomberg"
+  },
+  {
+    "title": "RBI holds repo rate steady amid inflation concerns",
+    "description": "Reserve Bank of India maintained the repo rate at 6.5% while signaling vigilance on inflation.",
+    "category": "monetary_policy",
+    "date": "2025-11-24",
+    "countries_affected": [
+      "India"
+    ],
+    "sectors_affected": [
+      "Banking",
+      "Infrastructure",
+      "Auto"
+    ],
+    "impact_level": "high",
+    "source": "RBI"
+  },
+  {
+    "title": "Government announces PLI scheme expansion",
+    "description": "Production Linked Incentive scheme expanded to include more sectors with ₹50,000 crore allocation.",
+    "category": "policy_changes",
+    "date": "2025-11-09",
+    "countries_affected": [
+      "India"
+    ],
+    "sectors_affected": [
+      "Auto",
+      "Pharma",
+      "IT"
+    ],
+    "impact_level": "high",
+    "source": "Ministry of Commerce"
+  },
+  {
+    "title": "Middle East tensions impact oil markets",
+    "description": "Escalating tensions in the Middle East region led to crude oil price volatility.",
+    "category": "conflicts",
+    "date": "2025-11-29",
+    "countries_affected": [
+      "Middle East",
+      "India",
+      "Global"
+    ],
+    "sectors_affected": [
+      "Oil & Gas",
+      "Airlines",
+      "FMCG"
+    ],
+    "impact_level": "high",
+    "source": "Reuters"
+  },
+  {
+    "title": "Russia-Ukraine situation affects commodity supplies",
+    "description": "Ongoing conflict continues to impact global supply chains for metals and agricultural commodities.",
+    "category": "conflicts",
+    "date": "2025-10-05",
+    "countries_affected": [
+      "Russia",
+      "Ukraine",
+      "Europe",
+      "India"
+    ],
+    "sectors_affected": [
+      "Metals",
+      "FMCG",
+      "Oil & Gas"
+    ],
+    "impact_level": "medium",
+    "source": "Bloomberg"
+  },
+  {
+    "title": "New sanctions on Russian entities",
+    "description": "Western nations imposed additional sanctions affecting trade with Russian companies.",
+    "category": "sanctions",
+    "date": "2025-10-25",
+    "countries_affected": [
+      "Russia",
+      "Europe",
+      "India"
+    ],
+    "sectors_affected": [
+      "Oil & Gas",
+      "Banking",
+      "Metals"
+    ],
+    "impact_level": "medium",
+    "source": "US Treasury"
+  },
+  {
+    "title": "Flooding in key manufacturing regions",
+    "description": "Severe flooding in South Asia affected industrial production and supply chains.",
+    "category": "natural_disasters",
+    "date": "2025-10-30",
+    "countries_affected": [
+      "India",
+      "Bangladesh"
+    ],
+    "sectors_affected": [
+      "FMCG",
+      "Auto",
+      "Infrastructure"
+    ],
+    "impact_level": "medium",
+    "source": "IMD"
+  },
+  {
+    "title": "India-UAE trade agreement implementation",
+    "description": "Comprehensive Economic Partnership Agreement between India and UAE comes into effect.",
+    "category": "trade_agreements",
+    "date": "2025-10-15",
+    "countries_affected": [
+      "India",
+      "UAE"
+    ],
+    "sectors_affected": [
+      "FMCG",
+      "Pharma",
+      "IT"
+    ],
+    "impact_level": "medium",
+    "source": "Ministry of Commerce"
+  },
+  {
+    "title": "India-EFTA FTA negotiations progress",
+    "description": "Free Trade Agreement talks between India and EFTA nations show positive progress.",
+    "category": "trade_agreements",
+    "date": "2025-10-10",
+    "countries_affected": [
+      "India",
+      "Switzerland",
+      "Norway"
+    ],
+    "sectors_affected": [
+      "Pharma",
+      "IT",
+      "Banking"
+    ],
+    "impact_level": "low",
+    "source": "Economic Times"
+  },
+  {
+    "title": "Semiconductor shortage continues to affect auto sector",
+    "description": "Global chip shortage leads to production cuts in automobile manufacturing.",
+    "category": "supply_chain",
+    "date": "2025-11-22",
+    "countries_affected": [
+      "Global",
+      "India"
+    ],
+    "sectors_affected": [
+      "Auto",
+      "IT"
+    ],
+    "impact_level": "high",
+    "source": "Industry Reports"
+  }
+]
